@@ -1,2 +1,2 @@
 # sandbox
-my sandbox repository
+This is a sandbox repository.
